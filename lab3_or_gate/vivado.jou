@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Mar 20 10:34:46 2025
+# Process ID: 8808
+# Current directory: C:/VivadoProjects/lab3_or_gate
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5168 C:\VivadoProjects\lab3_or_gate\lab3_or_gate.xpr
+# Log file: C:/VivadoProjects/lab3_or_gate/vivado.log
+# Journal file: C:/VivadoProjects/lab3_or_gate\vivado.jou
+# Running On: DESKTOP-BR7Q2AD, OS: Windows, CPU Frequency: 3693 MHz, CPU Physical cores: 12, Host memory: 17101 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/VivadoProjects/lab3_or_gate/lab3_or_gate.xpr

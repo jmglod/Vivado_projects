@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab3_3.srcs/sources_1/new/uart_fsm.v" \
+"../../../../Lab3_3.srcs/sources_1/new/uart_receiver.v" \
+"../../../../Lab3_3.srcs/sim_1/new/stimulate.v" \
+"../../../../Lab3_3.srcs/sim_1/new/tb_uart_receiver.v" \
+"../../../../Lab3_3.srcs/sim_1/new/save_file.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

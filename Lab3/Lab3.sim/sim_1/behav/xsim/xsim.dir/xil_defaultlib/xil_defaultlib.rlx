@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/VivadoProjects/Lab3/Lab3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/VivadoProjects/Lab3/Lab3.srcs/sim_1/new/stimulate.v,1742458160,verilog,,C:/VivadoProjects/Lab3/Lab3.srcs/sources_1/new/uart_fsm.v,,stimulate,,,,,,,,
+C:/VivadoProjects/Lab3/Lab3.srcs/sim_1/new/tb_uart_fsm.v,1742458880,verilog,,,,tb_uart_fsm,,,,,,,,
+C:/VivadoProjects/Lab3/Lab3.srcs/sim_1/new/verify.v,1742459735,verilog,,C:/VivadoProjects/Lab3/Lab3.srcs/sim_1/new/tb_uart_fsm.v,,verify,,,,,,,,
+C:/VivadoProjects/Lab3/Lab3.srcs/sources_1/new/uart_fsm.v,1742456813,verilog,,C:/VivadoProjects/Lab3/Lab3.srcs/sim_1/new/verify.v,,uart_fsm,,,,,,,,

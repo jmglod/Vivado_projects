@@ -1,0 +1,1 @@
+mult_DE_EF.vhd,vhdl,xil_defaultlib,../../../../lab4_2.gen/sources_1/ip/mult_DE_EF/sim/mult_DE_EF.vhd,

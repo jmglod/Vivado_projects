@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/VivadoProjects/lab4_1/lab4_1.gen/sources_1/ip/c_addsub_0_1/sim/c_addsub_0.vhd,1743202526,vhdl,,,,c_addsub_0,,,,,,,,
+C:/VivadoProjects/lab4_1/lab4_1.gen/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd,1743202263,vhdl,,,,mult_gen_0,,,,,,,,
+C:/VivadoProjects/lab4_1/lab4_1.sim/sim_1/behav/xsim/glbl.v,1665704904,verilog,,,,glbl,,,,,,,,
+C:/VivadoProjects/lab4_1/lab4_1.srcs/sim_1/new/tb_op_aryt.v,1743069348,verilog,,,,tb_op_aryt,,,,,,,,
+C:/VivadoProjects/lab4_1/lab4_1.srcs/sources_1/new/delay_line.v,1742999944,verilog,,C:/VivadoProjects/lab4_1/lab4_1.srcs/sources_1/new/op_aryt.v,,delay_line,,,,,,,,
+C:/VivadoProjects/lab4_1/lab4_1.srcs/sources_1/new/op_aryt.v,1743202452,verilog,,C:/VivadoProjects/lab4_1/lab4_1.srcs/sim_1/new/tb_op_aryt.v,,op_aryt,,,,,,,,
+C:/VivadoProjects/lab4_1/lab4_1.srcs/sources_1/new/register.v,1743000836,verilog,,C:/VivadoProjects/lab4_1/lab4_1.srcs/sources_1/new/delay_line.v,,register,,,,,,,,

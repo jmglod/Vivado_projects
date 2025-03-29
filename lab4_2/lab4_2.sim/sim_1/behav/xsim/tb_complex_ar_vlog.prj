@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab4_2.srcs/sources_1/imports/new/delay_line.v" \
+"../../../../lab4_2.srcs/sources_1/imports/new/register.v" \
+"../../../../lab4_2.srcs/sources_1/new/complex_ar.v" \
+"../../../../lab4_2.srcs/sim_1/new/stimulate.v" \
+"../../../../lab4_2.srcs/sim_1/new/tb_complex_ar.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/VivadoProjects/lab4_2/lab4_2.gen/sources_1/ip/adder_AB/sim/adder_AB.vhd,1743248583,vhdl,,,,adder_ab,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.gen/sources_1/ip/adder_DE/sim/adder_DE.vhd,1743248583,vhdl,,,,adder_de,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.gen/sources_1/ip/adder_EF/sim/adder_EF.vhd,1743249617,vhdl,,,,adder_ef,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.gen/sources_1/ip/adder_toY/sim/adder_toY.vhd,1743258521,vhdl,,,,adder_toy,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.gen/sources_1/ip/mult_AB_C/sim/mult_AB_C.vhd,1743257834,vhdl,,,,mult_ab_c,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.gen/sources_1/ip/mult_DE_EF/sim/mult_DE_EF.vhd,1743247122,vhdl,,,,mult_de_ef,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.srcs/sim_1/new/stimulate.v,1743249693,verilog,,C:/VivadoProjects/lab4_2/lab4_2.srcs/sim_1/new/tb_complex_ar.v,,stimulate,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.srcs/sim_1/new/tb_complex_ar.v,1743258464,verilog,,,,tb_complex_ar,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.srcs/sources_1/imports/new/delay_line.v,1743240569,verilog,,C:/VivadoProjects/lab4_2/lab4_2.srcs/sources_1/imports/new/register.v,,delay_line,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.srcs/sources_1/imports/new/register.v,1743240277,verilog,,C:/VivadoProjects/lab4_2/lab4_2.srcs/sources_1/new/complex_ar.v,,register,,,,,,,,
+C:/VivadoProjects/lab4_2/lab4_2.srcs/sources_1/new/complex_ar.v,1743269414,verilog,,C:/VivadoProjects/lab4_2/lab4_2.srcs/sim_1/new/stimulate.v,,complex_ar,,,,,,,,

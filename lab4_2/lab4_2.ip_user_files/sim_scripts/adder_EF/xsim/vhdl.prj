@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../lab4_2.gen/sources_1/ip/adder_EF/sim/adder_EF.vhd" \
+
+nosort

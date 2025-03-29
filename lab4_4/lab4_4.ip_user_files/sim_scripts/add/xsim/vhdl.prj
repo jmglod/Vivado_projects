@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../lab4_4.gen/sources_1/ip/add/sim/add.vhd" \
+
+nosort

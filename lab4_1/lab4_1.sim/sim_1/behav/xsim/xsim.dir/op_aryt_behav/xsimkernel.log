@@ -1,0 +1,7 @@
+Running: xsim.dir/op_aryt_behav/xsimk.exe -simmode gui -wdb op_aryt_behav.wdb -simrunnum 0 -socket 58438
+Design successfully loaded
+Design Loading Memory Usage: 7416 KB (Peak: 7416 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8228 KB (Peak: 8228 KB)
+Simulation CPU Usage: 15 ms

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="adder_EF_synth_1" LaunchPart="xc7z010clg400-1" LaunchTime="1743249623">
+  <File Type="PA-TCL" Name="adder_EF.tcl"/>
+  <File Type="REPORTS-TCL" Name="adder_EF_reports.tcl"/>
+  <File Type="RDS-RDS" Name="adder_EF.vds"/>
+  <File Type="RDS-UTIL" Name="adder_EF_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="adder_EF_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="adder_EF.dcp"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/adder_EF">
+    <File Path="$PSRCDIR/sources_1/ip/adder_EF/adder_EF.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="adder_EF"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/adder_EF">
+    <File Path="$PSRCDIR/sources_1/ip/adder_EF/adder_EF.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="adder_EF"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2022"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

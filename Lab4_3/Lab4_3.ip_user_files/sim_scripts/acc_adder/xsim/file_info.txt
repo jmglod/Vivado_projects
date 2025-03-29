@@ -1,0 +1,1 @@
+acc_adder.vhd,vhdl,xil_defaultlib,../../../../Lab4_3.gen/sources_1/ip/acc_adder/sim/acc_adder.vhd,

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../lab4_2.gen/sources_1/ip/adder_EF/sim/adder_EF.vhd" \
+"../../../../lab4_2.gen/sources_1/ip/mult_DE_EF/sim/mult_DE_EF.vhd" \
+"../../../../lab4_2.gen/sources_1/ip/adder_toY/sim/adder_toY.vhd" \
+"../../../../lab4_2.gen/sources_1/ip/adder_DE/sim/adder_DE.vhd" \
+"../../../../lab4_2.gen/sources_1/ip/mult_AB_C/sim/mult_AB_C.vhd" \
+"../../../../lab4_2.gen/sources_1/ip/adder_AB/sim/adder_AB.vhd" \
+
+# Do not sort compile order
+nosort

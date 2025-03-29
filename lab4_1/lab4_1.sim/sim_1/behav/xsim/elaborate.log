@@ -1,0 +1,49 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xbip_utils_v3_0_14 -L c_reg_fd_v12_0_10 -L xbip_dsp48_wrapper_v3_0_6 -L xbip_pipe_v3_0_10 -L c_addsub_v12_0_19 -L mult_gen_v12_0_22 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_op_aryt_behav xil_defaultlib.tb_op_aryt xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package c_addsub_v12_0_19.c_addsub_v12_0_19_viv_comp
+Compiling package xbip_utils_v3_0_14.xbip_utils_v3_0_14_pkg
+Compiling package xbip_pipe_v3_0_10.xbip_pipe_v3_0_10_viv_comp
+Compiling package c_addsub_v12_0_19.c_addsub_v12_0_19_pkg
+Compiling package c_addsub_v12_0_19.c_addsub_v12_0_19_pkg_legacy
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package xbip_dsp48_wrapper_v3_0_6.xbip_dsp48_wrapper_v3_0_6_pkg
+Compiling package unisim.vcomponents
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling package mult_gen_v12_0_22.mult_gen_v12_0_22_viv_comp
+Compiling package mult_gen_v12_0_22.mult_gen_v12_0_22_pkg
+Compiling package mult_gen_v12_0_22.dsp_pkg
+Compiling module xil_defaultlib.register(N=12)
+Compiling module xil_defaultlib.delay_line(N=12,DELAY=2)
+Compiling architecture dsp48e1_v of entity unisim.DSP48E1 [\DSP48E1(adreg=0,carryinselreg=0...]
+Compiling architecture synth of entity xbip_dsp48_wrapper_v3_0_6.xbip_dsp48e1_wrapper_v3_0 [\xbip_dsp48e1_wrapper_v3_0(areg=...]
+Compiling architecture synth of entity c_addsub_v12_0_19.c_addsub_v12_0_19_dsp [\c_addsub_v12_0_19_dsp(c_xdevice...]
+Compiling architecture synth of entity xbip_pipe_v3_0_10.xbip_pipe_v3_0_10_viv [\xbip_pipe_v3_0_10_viv(c_latency...]
+Compiling architecture synth of entity c_addsub_v12_0_19.c_addsub_v12_0_19_viv [\c_addsub_v12_0_19_viv(c_xdevice...]
+Compiling architecture xilinx of entity c_addsub_v12_0_19.c_addsub_v12_0_19 [\c_addsub_v12_0_19(c_xdevicefami...]
+Compiling architecture c_addsub_0_arch of entity xil_defaultlib.c_addsub_0 [c_addsub_0_default]
+Compiling architecture xilinx of entity mult_gen_v12_0_22.delay_line [\delay_line(c_xdevicefamily="zyn...]
+Compiling architecture xilinx of entity mult_gen_v12_0_22.op_resize [\op_resize(ai_width=13,bi_width=...]
+Compiling architecture xilinx of entity mult_gen_v12_0_22.dsp [\dsp(c_xdevicefamily="zynq",c_a_...]
+Compiling architecture xilinx of entity mult_gen_v12_0_22.mult_gen_v12_0_22_viv [\mult_gen_v12_0_22_viv(c_verbosi...]
+Compiling architecture xilinx of entity mult_gen_v12_0_22.mult_gen_v12_0_22 [\mult_gen_v12_0_22(c_xdevicefami...]
+Compiling architecture mult_gen_0_arch of entity xil_defaultlib.mult_gen_0 [mult_gen_0_default]
+Compiling module xil_defaultlib.op_aryt
+Compiling module xil_defaultlib.tb_op_aryt
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_op_aryt_behav

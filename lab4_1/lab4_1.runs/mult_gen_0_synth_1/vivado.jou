@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Mar 28 23:51:06 2025
+# Process ID         : 17184
+# Current directory  : C:/VivadoProjects/lab4_1/lab4_1.runs/mult_gen_0_synth_1
+# Command line       : vivado.exe -log mult_gen_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mult_gen_0.tcl
+# Log file           : C:/VivadoProjects/lab4_1/lab4_1.runs/mult_gen_0_synth_1/mult_gen_0.vds
+# Journal file       : C:/VivadoProjects/lab4_1/lab4_1.runs/mult_gen_0_synth_1\vivado.jou
+# Running On         : DESKTOP-BR7Q2AD
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 5600X 6-Core Processor             
+# CPU Frequency      : 3693 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 17101 MB
+# Swap memory        : 10189 MB
+# Total Virtual      : 27290 MB
+# Available Virtual  : 5368 MB
+#-----------------------------------------------------------
+source mult_gen_0.tcl -notrace
